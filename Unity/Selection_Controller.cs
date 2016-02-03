@@ -25,13 +25,13 @@ public class Selection_Controller : MonoBehaviour
 	private bool animating; 		// flag for animating a rotation
 	private float remaining;			//
 	private float rotation;				//
-	private float animation_step;		//	animation and rotation values
+	private float animation_step;			//	animation and rotation values
 	private Vector3 point;				//
 	private Vector3 axis;				//
 	public Text debugText; 			// debug UI element for testing
 	private bool debug; 			// flag to enable display of debug text
 
-	public List<GameObject> cubes; // vector of cubes to be rotated/manipulated
+	public List<GameObject> cubes; 		// vector of cubes to be rotated/manipulated
 	
 	void Start () // runs on initialization
 	{
