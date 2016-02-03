@@ -1,4 +1,14 @@
-# WCL- Augmented Reality Spatial Awareness Study
+# WCL - Augmented Reality Spatial Awareness Study
+
+Table of Contents
+=================
+  * [Synopsis](#synopsis)
+  * [Repository Contents](#repository-contents)
+  * [Motivation](#motivation)
+  * [Installation](#installation)
+  * [Testing and Trials](#testing-and-trials)
+  * [Contributors](#contributors)
+  * [License](#license)
 
 ## Synopsis
 
